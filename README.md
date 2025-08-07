@@ -27,5 +27,9 @@ A API utiliza **JWT** para autenticação de administradores. Após o login, um 
 POST /login
 {
   "username": "root",
+
   "password": "****"
 }
+
+
+
